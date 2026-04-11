@@ -45,4 +45,5 @@ check next string, if length is same
     make hashmap2 {key=char, value=count}
     compare with hashmap1, if same, add to array
     move string to array
+    add string index to an ignore list, to skip duplicates
 */
